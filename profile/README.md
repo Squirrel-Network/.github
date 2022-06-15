@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://github.com/Squirrel-Network/GroupRules/blob/master/img/Logo.png" width="350" title="SquirrelNetwork">
+  <img src="https://github.com/Squirrel-Network/GroupRules/blob/master/img/Logo.png" width="150" title="SquirrelNetwork">
 </p>
 
 
