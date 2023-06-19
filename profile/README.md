@@ -6,9 +6,7 @@
 
 # 🐿 SquirrelNetwork 🐿
 
-Siamo un gruppo di ragazzi che hanno fondato un piccolo Network di programmatori su Telegram
-nell'anno 2018 con l'intento di dare un posto a tutti quanti e dare spazio ai progetti OpenSource
-e gruppi emergenti su Telegram, Benvenuti nello SquirrelNetwork!
+Sin dalla sua concezione, il network si propone di offrire una community e un'amministrazione di alta qualità; insieme, supportiamo e sviluppiamo progetti informatici open-source di varie dimensioni e utilità.
 
 Vuoi dare un'occhiatai ai nostri [Link?](https://linktr.ee/SquirrelNetwork)
 
