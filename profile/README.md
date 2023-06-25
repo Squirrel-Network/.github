@@ -18,6 +18,8 @@ Vuoi dare un'occhiatai ai nostri [Link?](https://linktr.ee/SquirrelNetwork)
 https://github.com/squirrel-network/nebula10)
 
 [Api Pubbliche di Nebula](https://github.com/Squirrel-Network/api_nebula)
+[WebApp Nebula 10](https://github.com/Squirrel-Network/Nebula-webapp-frontend)
+[Nebula Blacklist Search (Knowhere)](https://github.com/Squirrel-Network/Knowhere)
 
 
 Puoi trovare tanto altro sul nostro **Github**!
